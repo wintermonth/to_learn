@@ -7,4 +7,8 @@
 5. [Счетные и несчетные множества.](https://foxford.ru/wiki/matematika/konechnye-schetnye-i-neschetnye-mnozhestva)
 ### Практика:
 1. [Сборник задач и решений.](http://pspu.ru/upload/others/Primery_reshenija_zadanij.pdf)
+
+
+
+
 *<p style='text-align: right; color:#FF0000'>Deadline: 18:06:2019 (21:00) </p>*

@@ -1,4 +1,4 @@
 ## Содержание
 
-1. [to_learn_1](https://github.com/wintermonth/to_learn/blob/master/to_learn_1.md)
-2. [to_learn_2](https://github.com/wintermonth/to_learn/blob/master/to_learn_2.md)
+1. [Множества. Операции над множествами. Числовые множества. Грани множеств. Множества в R n. Соответствие множеств. Счетные и несчетные множества.](https://github.com/wintermonth/to_learn/blob/master/to_learn_1.md)
+2. [Числовые последовательности и пределы. Свойства сходящихся последовательностей. При- знаки существования предела. Первый и второй замечательные пределы.](https://github.com/wintermonth/to_learn/blob/master/to_learn_2.md)

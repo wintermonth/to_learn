@@ -11,4 +11,3 @@
 
 
 
-*<p style='text-align: right; color:#FF0000'>Deadline: 18:06:2019 (21:00) </p>*
